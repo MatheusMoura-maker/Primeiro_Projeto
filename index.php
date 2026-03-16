@@ -13,6 +13,8 @@ $Dinossauro="Tiranossauro Rex";
 echo "Meu nome é $Nome, meu carro é um $Carro e eu abasteço com $gasolina";
 echo "O meu macaco é um $macaco";
 echo "O meu dinossauro é um $Dinossauro";
+echo "minha vida é dificil encontrei um $macaco e um $Dinossauro na minha casa";
+
 
 ?>
 
