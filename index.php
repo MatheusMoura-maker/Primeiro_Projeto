@@ -1,19 +1,20 @@
-<html>
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto de extenção</title>
+</head>
+<body>
+    <h1>
+     <h1>Form - 18/03/2026</h1>
+    <form method="POST" action="recebe.php">
+    login<input type="text" id="login" name="login"><br>
+    Senha<input type="text" id="Senha" name="senha"><br>
+    <input type="submit" value="Validar">
+    
 
-<?php
-echo  "<h1>BACKEND<br></h1>";
 
-echo "Hello,World!<br>";                                                                
-echo "Banco de dados<br>";
-$Nome="Matheus de Moura";
-$Carro="Hyundai I30";
-$gasolina="Gasolina aditivada do posto shell";
-echo "matheus de moura<br>";
-
-
-echo "Meu nome é $Nome, meu carro é um $Carro e eu abasteço com $gasolina";
-
-
-?>
-
+    </form>
+</body>
 </html>
